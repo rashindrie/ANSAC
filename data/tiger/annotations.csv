@@ -1,0 +1,83 @@
+barcode,Stromal_Tils,comment,label
+TC_S01_P000074_C0001_B101,5,,0
+123S,60,necrosis+++++,1
+248B,10,,0
+TC_S01_P000020_C0001_B207,5,immune cells around DCIS = pitfall,0
+TC_S01_P000099_C0001_B101,65,,1
+TC_S01_P000103_C0001_B101,10,,0
+TC_S01_P000087_C0001_B101,1,,0
+227S,95,,1
+TC_S01_P000061_C0001_B101,65,,1
+146B,1,,0
+TC_S01_P000093_C0001_B101,75,,1
+208B,1,,0
+129S,40,,1
+112B,1,crushed tumor cells = pitfalls for TILs,0
+211B,20,many immune cells with normal structures and DCIS,0
+247B,10,many immune cells with normal structures,0
+104S,70,many immune cells in DCIS and normal lobules,1
+110S,1,a score of 1 means practically zero,0
+TC_S01_P000124_C0001_B101,90,,1
+TC_S01_P000041_C0001_B101,5,immune cells with normal structures,0
+TC_S01_P000123_C0001_B101,20,many immune cells surrounding normal structures and DCIS ,0
+121S,5,immune cells associated with granulationtissue after biopsy = not considered as TILs!  = pitfall + immune cells with normal structures,0
+TC_S01_P000052_C0001_B101,95,,1
+214B,1,,0
+106S,10,mainly immune cells at the periphery and in normal structures = potential pitfalls for ML-tools,0
+TC_S01_P000155_C0001_B101,35,,1
+161S,20,many immune cells surrounding the cancer associated with fatnecrosis = pitfall,0
+TC_S01_P000108_C0001_B101,25,small cancer cells,0
+160B,75,many immune cells surrounding DCIS,1
+155B,3,,0
+TC_S01_P000079_C0001_B101,15,,0
+TC_S01_P000120_C0001_B101,60,many immune cells also with normal structures,1
+165B,1,DCIS-like invasive cancer,0
+126B,10,immune cells with normal structures,0
+TC_S01_P000073_C0001_B101,30,many immune cells surrounding DCIS,1
+TC_S01_P000077_C0001_B101,10,,0
+236B,70,many small cancer cells = pitfall,1
+244B,1,tiny fragment,0
+TC_S01_P000049_C0001_B101,3,,0
+TC_S01_P000160_C0001_B204,95,probably an involved lymph node,1
+TC_S01_P000064_C0001_B101,1,,0
+174S,85,,1
+TC_S01_P000089_C0001_B101,10,,0
+107S,5,immune cells also with normal structures = pitfall,0
+TC_S01_P000083_C0001_B101,1,small cancer cells,0
+TC_S01_P000127_C0001_B101,15,mainly neutrophils,0
+TC_S01_P000006_C0001_B206,90,poorly fixed sample,1
+TC_S01_P000047_C0001_B101,1,,0
+TC_S01_P000092_C0001_B101,1,,0
+TC_S01_P000112_C0001_B101,75,many immune cells around DCIS,1
+TC_S01_P000119_C0001_B101,0,no invasive cancer,0
+TC_S01_P000104_C0001_B101,10,,0
+TC_S01_P000058_C0001_B101,1,,0
+TC_S01_P000128_C0001_B101,10,,0
+139B,40,,1
+TC_S01_P000166_C0001_B101,1,,0
+TC_S01_P000063_C0001_B101,5,many immune cells surrounding DCIS,0
+TC_S01_P000134_C0001_B101,15,,0
+TC_S01_P000116_C0001_B101,95,,1
+224B,40,not many invasive cancer cells nests,1
+205B,1,,0
+TC_S01_P000122_C0001_B101,70,many immune cells with DCIS,1
+175B,20,immune cells with normal structures,0
+228B,20,focal many neutrophils,0
+105S,10,many fibroblasts,0
+233B,1,lymphoid aggregates and immune cells associated with normal structures,0
+TC_S01_P000106_C0001_B101,40,,1
+132B,1,many immune cells with normal structures = pitfall,0
+TC_S01_P000100_C0001_B101,60,,1
+TC_S01_P000004_C0001_B103,95,necrosis+++,1
+184B,5,many immune cells with normal structures,0
+223B,1,,0
+TC_S01_P000181_C0001_B101,10,,0
+159S,1,,0
+108S,30,many neutrophils = pitfall,1
+212B,5,many immune cells with DCIS,0
+162S,50,,1
+TC_S01_P000139_C0001_B101,10,many immune cells in normal structures and DCIS and granulationtissue,0
+TC_S01_P000045_C0001_B106,20,,0
+TC_S01_P000085_C0001_B101,1,,0
+TC_S01_P000101_C0001_B101,20,lymphoid aggregates and immune cell around DCIS = pitfalls,0
+TC_S01_P000055_C0001_B101,65,,1
